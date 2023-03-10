@@ -66,6 +66,7 @@ h5:active{
 
 .card:hover {
   margin-top: 0.5px;
+  transform: translateY(-4px);
   cursor: pointer;
 }
 
